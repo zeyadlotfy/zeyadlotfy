@@ -19,7 +19,6 @@
 <a href="https://instagram.com/zeyadlotfyzizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadlotfyzizo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeyadlotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeyadlotfy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/zeyadlotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeyadlotfy" height="30" width="40" /></a>
-<a href="https://discord.gg/zeyadlotfyzizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeyadlotfyzizo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
